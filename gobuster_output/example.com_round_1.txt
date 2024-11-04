@@ -1,0 +1,14 @@
+===============================================================
+Gobuster v3.6
+by OJ Reeves (@TheColonial) & Christian Mehlmauer (@firefart)
+===============================================================
+[+] Url:          https://FUZZ.example.com
+[+] Method:       GET
+[+] Threads:      100
+[+] Delay:        1.5s
+[+] Wordlist:     /usr/share/seclists/Discovery/DNS/subdomains-top1million-5000.txt
+[+] User Agent:   gobuster/3.6
+[+] Timeout:      10s
+===============================================================
+Starting gobuster in fuzzing mode
+===============================================================

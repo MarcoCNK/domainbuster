@@ -1,0 +1,96 @@
+===============================================================
+Gobuster v3.6
+by OJ Reeves (@TheColonial) & Christian Mehlmauer (@firefart)
+===============================================================
+[+] Url:          https://FUZZ.&
+[+] Method:       GET
+[+] Threads:      100
+[+] Delay:        1.5s
+[+] Wordlist:     /usr/share/seclists/Discovery/DNS/subdomains-top1million-5000.txt
+[+] User Agent:   gobuster/3.6
+[+] Timeout:      10s
+===============================================================
+Starting gobuster in fuzzing mode
+===============================================================
+
+===============================================================
+Finished
+===============================================================
+===============================================================
+Gobuster v3.6
+by OJ Reeves (@TheColonial) & Christian Mehlmauer (@firefart)
+===============================================================
+[+] Url:          https://FUZZ.mode
+[+] Method:       GET
+[+] Threads:      100
+[+] Delay:        1.5s
+[+] Wordlist:     /usr/share/seclists/Discovery/DNS/subdomains-top1million-5000.txt
+[+] User Agent:   gobuster/3.6
+[+] Timeout:      10s
+===============================================================
+Starting gobuster in fuzzing mode
+===============================================================
+===============================================================
+Gobuster v3.6
+by OJ Reeves (@TheColonial) & Christian Mehlmauer (@firefart)
+===============================================================
+[+] Url:          https://FUZZ.&
+[+] Method:       GET
+[+] Threads:      100
+[+] Delay:        1.5s
+[+] Wordlist:     /usr/share/seclists/Discovery/DNS/subdomains-top1million-5000.txt
+[+] User Agent:   gobuster/3.6
+[+] Timeout:      10s
+===============================================================
+Starting gobuster in fuzzing mode
+===============================================================
+
+===============================================================
+Finished
+===============================================================
+===============================================================
+Gobuster v3.6
+by OJ Reeves (@TheColonial) & Christian Mehlmauer (@firefart)
+===============================================================
+[+] Url:          https://FUZZ.mode
+[+] Method:       GET
+[+] Threads:      100
+[+] Delay:        1.5s
+[+] Wordlist:     /usr/share/seclists/Discovery/DNS/subdomains-top1million-5000.txt
+[+] User Agent:   gobuster/3.6
+[+] Timeout:      10s
+===============================================================
+Starting gobuster in fuzzing mode
+===============================================================
+===============================================================
+Gobuster v3.6
+by OJ Reeves (@TheColonial) & Christian Mehlmauer (@firefart)
+===============================================================
+[+] Url:          https://FUZZ.&
+[+] Method:       GET
+[+] Threads:      100
+[+] Delay:        500ms
+[+] Wordlist:     /usr/share/seclists/Discovery/DNS/subdomains-top1million-5000.txt
+[+] User Agent:   gobuster/3.6
+[+] Timeout:      10s
+===============================================================
+Starting gobuster in fuzzing mode
+===============================================================
+
+===============================================================
+Finished
+===============================================================
+===============================================================
+Gobuster v3.6
+by OJ Reeves (@TheColonial) & Christian Mehlmauer (@firefart)
+===============================================================
+[+] Url:          https://FUZZ.mode
+[+] Method:       GET
+[+] Threads:      100
+[+] Delay:        500ms
+[+] Wordlist:     /usr/share/seclists/Discovery/DNS/subdomains-top1million-5000.txt
+[+] User Agent:   gobuster/3.6
+[+] Timeout:      10s
+===============================================================
+Starting gobuster in fuzzing mode
+===============================================================
