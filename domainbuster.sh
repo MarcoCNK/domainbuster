@@ -65,7 +65,7 @@ estimate_time() {
   local minutes=$(( (total_time_ms % 3600000) / 60000 ))
   local seconds=$(( (total_time_ms % 60000) / 1000 ))
 
-  echo -e "${yellow}Estimated time per round: ${hours}h ${minutes}m ${seconds}s${end}"
+  echo -e "${yellow}Estimated time: ${hours}h ${minutes}m ${seconds}s${end}"
 }
 
 # Run time estimation function
